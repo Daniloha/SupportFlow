@@ -1,5 +1,3 @@
-Aqui está o README adaptado para o projeto **SupportFlow** com as alterações solicitadas:
-
 ---
 
 # SupportFlow
