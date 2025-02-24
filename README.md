@@ -1,5 +1,4 @@
----
-
+___
 # SupportFlow
 
 Sistema de gestão de chamados com painel de controle, padronização de tratativas, acompanhamento de status e integração com ferramentas externas como **Calc** e **Kanbanize**.
@@ -14,7 +13,7 @@ O **SupportFlow** é uma solução completa para o **gerenciamento de chamados**
 
 Desenvolvido com **ASP.NET Core**, o projeto prioriza **escalabilidade**, **segurança** e **flexibilidade**, sendo ideal para equipes que buscam um controle eficiente dos processos de atendimento.
 
----
+___
 
 ## 📂 Estrutura do Projeto
 
@@ -32,7 +31,7 @@ SupportFlow.sln
 │   │── /SupportFlow.Infrastructure.Test  -> Testes do Repositório e Banco de Dados
 ```
 
----
+___
 
 ## ✅ Checklist de Desenvolvimento
 
@@ -93,7 +92,7 @@ SupportFlow.sln
 2. 🔲 **Configurar pipeline CI/CD (GitHub Actions ou Azure DevOps)**
 3. 🔲 **Publicar a API em um ambiente (ex: Railway, Azure, AWS, Render)**
 
----
+___
 
 ## 📊 Funcionalidades Principais
 
@@ -121,7 +120,7 @@ SupportFlow.sln
 - **Limpeza Mensal Automática:**  
   No primeiro dia de cada mês, os dados do mês anterior são arquivados e a base atual é limpa.
 
----
+___
 
 ## 📐 Diagrama de Dependências
 
@@ -144,5 +143,4 @@ SupportFlow.Infrastructure  SupportFlow.Shared     SupportFlow.Shared
 * **SupportFlow.Domain** depende apenas de SupportFlow.Shared  
 * **SupportFlow.Shared** pode ser usado por todas as camadas
 
----
-
+___
